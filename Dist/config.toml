@@ -1,0 +1,7 @@
+enabled = true
+dll = ["PotatoMM.dll"]
+
+name = "Potato MM"
+version = "1.0"
+date = "22.08.2022"
+author = "korenkonder"
